@@ -1,0 +1,5 @@
+{
+    "markdown.preview.breaks": false,
+    "inlineChat.mode": "livePreview",
+    "liveServer.settings.host": "192.168.100.5"
+}
